@@ -1,8 +1,8 @@
-html.js {
+/*html.js {
   font-size: 14px;
-  margin-top: 0 !important; }
+  margin-top: 0 !important; }*/
 
-body {
+/*body {
   min-height: 100vh;
   overflow-x: hidden;
   font-family: 'Open Sans', sans-serif;
@@ -10,7 +10,7 @@ body {
   font-size: 14px;
   color: #222222;
   position: relative;
-  background: #ffffff; }
+  background: #ffffff; }*/
 
 strong, b {
   font-weight: 800; }
@@ -27,34 +27,34 @@ strong, b {
   background: #000;
   color: #ffffff; }
 
-::selection {
+/*::selection {
   background: #000;
-  color: #ffffff; }
+  color: #ffffff; }*/
 
 ::-moz-selection {
   background: #000;
   color: #ffffff; }
 
-* {
+/** {
   margin: 0;
   padding: 0;
   outline: 0;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased; }*/
 
 :focus {
   outline: 0; }
 
-a,
+/*a,
 a:hover,
 a:focus {
   color: #222222;
   outline: 0;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
-  text-decoration: none; }
+  text-decoration: none; }*/
 
-a {
-  text-decoration: underline; }
+/*a {
+  text-decoration: underline; }*/
 
 .text-light a {
   color: #ffffff; }
@@ -427,11 +427,11 @@ iframe[name="advpp_manager"] {
     background-attachment: scroll; } }
 /* bootstrap columns
 ---------------------------*/
-.container,
+/*.container,
 section,
 section > * {
   position: relative; }
-
+*/
 .container.no-padding [class*="col-"] {
   padding: 0; }
 
@@ -448,8 +448,8 @@ section > * {
 .pad-0 {
   margin-bottom: 0; }
 
-.container {
-  max-width: 100%; }
+/*.container {
+  max-width: 100%; }*/
 
 @media (min-width: 768px) {
   .pad-sm-l-0 {
@@ -2824,12 +2824,12 @@ section > * {
 
 /*------------------------------------------------------*/
 /*---------------------- 04. HERO ----------------------*/
-.hero {
+/*.hero {
   width: 100%;
   height: 40%;
   position: relative;
   background-size: cover;
-  background-position: center; }
+  background-position: center; }*/
 
 .hero-inner {
   position: relative;
@@ -3009,12 +3009,13 @@ blockquote cite:before {
 .no-padd {
   padding: 0 !important; }
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
   .hero > .container {
     padding: 0 !important; }
 
   .no-padd-md {
-    padding: 0 !important; } }
+    padding: 0 !important; } }*/
+
 @media screen and (max-width: 600px) {
   html {
     margin-top: 0; } }
@@ -10552,7 +10553,7 @@ html.js {
   font-size: 14px;
   margin-top: 0 !important; }
 
-body {
+/*body {
   min-height: 100vh;
   overflow-x: hidden;
   font-family: 'Open Sans', sans-serif;
@@ -10560,7 +10561,7 @@ body {
   font-size: 14px;
   color: #222222;
   position: relative;
-  background: #ffffff; }
+  background: #ffffff; }*/
 
 strong, b {
   font-weight: 800; }
@@ -10577,19 +10578,19 @@ strong, b {
   background: #000;
   color: #ffffff; }
 
-::selection {
+/*::selection {
   background: #000;
-  color: #ffffff; }
+  color: #ffffff; }*/
 
 ::-moz-selection {
   background: #000;
   color: #ffffff; }
 
-* {
+/** {
   margin: 0;
   padding: 0;
   outline: 0;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased; }*/
 
 :focus {
   outline: 0; }
@@ -10977,10 +10978,10 @@ iframe[name="advpp_manager"] {
     background-attachment: scroll; } }
 /* bootstrap columns
 ---------------------------*/
-.container,
+/*.container,
 section,
 section > * {
-  position: relative; }
+  position: relative; }*/
 
 .container.no-padding [class*="col-"] {
   padding: 0; }
@@ -10998,8 +10999,8 @@ section > * {
 .pad-0 {
   margin-bottom: 0; }
 
-.container {
-  max-width: 100%; }
+/*.container {
+  max-width: 100%; }*/
 
 @media (min-width: 768px) {
   .pad-sm-l-0 {
@@ -13374,12 +13375,12 @@ section > * {
 
 /*------------------------------------------------------*/
 /*---------------------- 04. HERO ----------------------*/
-.hero {
+/*.hero {
   width: 100%;
   height: 40%;
   position: relative;
   background-size: cover;
-  background-position: center; }
+  background-position: center; }*/
 
 .hero-inner {
   position: relative;
@@ -13559,12 +13560,13 @@ blockquote cite:before {
 .no-padd {
   padding: 0 !important; }
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
   .hero > .container {
     padding: 0 !important; }
 
   .no-padd-md {
-    padding: 0 !important; } }
+    padding: 0 !important; } }*/
+
 @media screen and (max-width: 600px) {
   html {
     margin-top: 0; } }
@@ -16123,16 +16125,17 @@ strong, b {
 :focus {
     outline: 0;
 }
-a, a:hover, a:focus {
+
+/*a, a:hover, a:focus {
     color: #222222;
     outline: 0;
     -webkit-transition: all 300ms ease;
     transition: all 300ms ease;
     text-decoration: none;
-}
-a {
+}*/
+/*a {
     text-decoration: underline;
-}
+}*/
 .text-light a {
     color: #ffffff;
 }
@@ -19077,9 +19080,9 @@ blockquote cite:before {
     .hero>.container {
     padding: 0 !important;
 }
-.no-padd-md {
+/*.no-padd-md {
     padding: 0 !important;
-}
+}*/
 }@media screen and (max-width: 600px) {
     html {
     margin-top: 0;
@@ -40000,19 +40003,19 @@ a {
     }
 }
 
-@media (min-width: 1200px) {        
+/*@media (min-width: 1200px) {        
     .container {
         width: 100%;
         margin-left: 85px;
     }
-}
+}*/
 
-@media (min-width: 1200px) {        
+/*@media (min-width: 1200px) {        
     .container {
         width: 100%;
         margin-left: 85px;
     }
-}
+}*/
 
 @media only screen and (max-width: 430px) {
     .container {
