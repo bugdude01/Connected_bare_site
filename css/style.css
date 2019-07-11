@@ -41,8 +41,8 @@ strong, b {
   outline: 0;
   -webkit-font-smoothing: antialiased; }*/
 
-:focus {
-  outline: 0; }
+/*:focus {
+  outline: 0; }*/
 
 /*a,
 a:hover,
@@ -10592,8 +10592,8 @@ strong, b {
   outline: 0;
   -webkit-font-smoothing: antialiased; }*/
 
-:focus {
-  outline: 0; }
+/*:focus {
+  outline: 0; }*/
 
 a,
 a:hover,
@@ -16479,6 +16479,7 @@ iframe[name="advpp_manager"] {
 }
 }.container, section, section>* {
     position: relative;
+    width: 1170px;
 }
 .container.no-padding [class*="col-"] {
     padding: 0;
@@ -34333,6 +34334,7 @@ h2.tg-instagram-user-name, h3.tg-instagram-user-desc-fullname {
 .tg-icon-video:before {
     content: "\e907"
 }
+
 
 /*LIGHT-GALLERY.Min.CSS*/
 
