@@ -16481,6 +16481,18 @@ iframe[name="advpp_manager"] {
     position: relative;
     width: 1170px;
 }
+
+.container_influencer {
+    position: relative;
+    width: 100%;
+    padding-left: 175px;
+}
+
+@media (max-width: 1200px) {
+  .container_influencer {
+      padding-left: 30px;
+  }
+}
 .container.no-padding [class*="col-"] {
     padding: 0;
 }
@@ -32219,13 +32231,13 @@ body.admin-bar .tolb-inner {
     left: 0;
     background-color: rgba(0, 0, 0, 0.3);
 }
-.portfolio-slider-wrap.slider_classic .content-wrap {
+/*.portfolio-slider-wrap.slider_classic .content-wrap {
     position: absolute;
     left: 50%;
     bottom: 202px;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-}
+}*/
 .portfolio-slider-wrap.slider_classic .content-wrap .categories {
     color: #ffffff;
     font-family: "Open Sans",  sans-serif;
