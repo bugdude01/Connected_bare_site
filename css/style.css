@@ -32263,6 +32263,7 @@ body.admin-bar .tolb-inner {
     text-transform: uppercase;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
+    margin-left: -5px;
 }
 .portfolio-slider-wrap.slider_classic .content-wrap .excerpt {
     margin-top: 30px;
@@ -40051,6 +40052,16 @@ a {
     }
 }
 
+@media only screen and (max-width: 430px) {
+    .container_home {
+        text-align: center;
+        width: 100%;
+        bottom: 0px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+}
+
 @media (min-width: 768px) {
     .col-sm-12 {
     width: 100%;
@@ -40065,14 +40076,14 @@ a {
     letter-spacing: 2px;
     text-transform: uppercase;
 }
-.portfolio-slider-wrap.slider_classic .content-wrap .portfolio-title {
+/*.portfolio-slider-wrap.slider_classic .content-wrap .portfolio-title {
     color: #ffffff;
     font-size: 60px;
     font-weight: bold;
     text-transform: uppercase;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
-}
+}*/
 .portfolio-slider-wrap.slider_classic .content-wrap .excerpt {
     margin-top: 30px;
     max-width: 700px;
