@@ -4094,8 +4094,8 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     text-align: center; }
     #footer.modern .wiso-widget-copyright .copy_content {
       text-align: center; }
-  #footer .sidebar-item {
-    text-align: center; }
+  /*#footer .sidebar-item {
+    text-align: center; }*/
     #footer .sidebar-item:nth-of-type(3n) {
       width: 100%; }
     #footer .sidebar-item .item-wrap {
@@ -13944,7 +13944,7 @@ caption {
   #footer .sidebar-item .item-wrap {
     max-width: none;
     width: 100%; }
-    #footer .sidebar-item .item-wrap h3 {
+    /*#footer .sidebar-item .item-wrap h3 {
       margin-bottom: 47px;
       color: #222222;
       font-family: "Playfair Display", sans-serif;
@@ -13953,7 +13953,7 @@ caption {
       letter-spacing: 1.3px;
       text-align: center;
       text-transform: uppercase;
-      border-bottom: 0; }
+      border-bottom: 0; }*/
   #footer .sidebar-item .wiso-widget-subscribe .wiso-widget-descr {
     color: #999999;
     font-family: "Open Sans", sans-serif;
@@ -14414,9 +14414,9 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
   max-width: 300px; }
 /*#footer .sidebar-item {
   text-align: center; }*/
-  #footer .sidebar-item .item-wrap {
+  /*#footer .sidebar-item .item-wrap {
     display: block;
-    text-align: left; }
+    text-align: left; }*/
   #footer .sidebar-item h5 {
     margin-bottom: 28px; }
   #footer .sidebar-item li {
@@ -14575,9 +14575,9 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 @media only screen and (max-width: 1400px) {
   body #footer .widg {
     padding: 50px 0 15px; } }
-@media only screen and (max-width: 1200px) {
+/*@media only screen and (max-width: 1200px) {
   #footer.simple > .container {
-    padding-top: 90px; } }
+    padding-top: 90px; } }*/
 @media only screen and (min-width: 1199px) {
   #footer .sidebar-item .item-wrap {
     max-width: 260px;
@@ -14590,10 +14590,10 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     max-width: 300px; } }
 @media only screen and (max-width: 1199px) and (min-width: 768px) {
   body.static-menu #footer .sidebar-item {
-    width: 50% !important; } }
-@media only screen and (max-width: 1024px) {
+    width: 50% !important; }
+   /* @media only screen and (max-width: 1024px) {
   #footer.simple > .container {
-    padding-top: 50px; }
+    padding-top: 50px; }*/
   #footer .sidebar-item {
     margin-bottom: 20px;
     margin-top: 20px; }
@@ -14610,8 +14610,8 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
   #footer .widg .sidebar-item:nth-of-type(3) {
     float: none; }
 
-  #footer .sidebar-item {
-    text-align: center; }
+  /*#footer .sidebar-item {
+    text-align: center; }*/
     #footer .sidebar-item .images-wrap {
       display: inline-block; }
 
@@ -14622,8 +14622,8 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
   #footer .widget_text {
     max-width: 100%; }
 
-  #footer.simple > .container {
-    padding-top: 40px; }
+  /*#footer.simple > .container {
+    padding-top: 40px; }*/
   #footer.simple .sidebar-item:nth-of-type(3n)::before {
     content: none; }
   #footer.simple .sidebar-item:nth-of-type(3n + 1)::after {
@@ -14645,12 +14645,12 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     text-align: center; }
     #footer.modern .wiso-widget-copyright .copy_content {
       text-align: center; }
-  #footer .sidebar-item {
-    text-align: center; }
+  /*#footer .sidebar-item {
+    text-align: center; }*/
     #footer .sidebar-item:nth-of-type(3n) {
       width: 100%; }
-    #footer .sidebar-item .item-wrap {
-      text-align: center; }
+    /*#footer .sidebar-item .item-wrap {
+      text-align: center; }*/
   #footer .footer-bottom-wrap {
     margin-top: 30px; }
 
@@ -14711,8 +14711,8 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
   body #footer .widg {
     padding: 15px 0; }
 
-  #footer .sidebar-item .item-wrap {
-    text-align: center; }
+  /*#footer .sidebar-item .item-wrap {
+    text-align: center; }*/
   #footer .sidebar-item .images-wrap {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -14737,16 +14737,16 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
       margin-left: 15px; }
     #footer.simple .copyright {
       margin-bottom: 30px; }
-    #footer.simple .sidebar-item .item-wrap h3 {
-      margin-bottom: 25px; }
+    /*#footer.simple .sidebar-item .item-wrap h3 {
+      margin-bottom: 25px; }*/
     #footer.simple .sidebar-item .wiso-widget-subscribe .wiso-widget-descr {
       margin-bottom: 0; }
   #footer.modern .wiso-widget-copyright .img-wrap {
     margin-bottom: 28px; }
   #footer .widget_text h5 {
     margin-bottom: 20px; }
-  #footer .sidebar-item .item-wrap h3 {
-    margin-bottom: 20px; }
+  /*#footer .sidebar-item .item-wrap h3 {
+    margin-bottom: 20px; }*/
   #footer .footer-bottom-wrap .flex-wrap {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap; } }
@@ -19492,7 +19492,7 @@ caption {
 #footer .sidebar-item .item-wrap {
     max-width: none;
     width: 100%}
-#footer .sidebar-item .item-wrap h3 {
+/*#footer .sidebar-item .item-wrap h3 {
     margin-bottom: 47px;
     color: #222222;
     font-family: "Playfair Display",  sans-serif;
@@ -19502,7 +19502,14 @@ caption {
     text-align: center;
     text-transform: uppercase;
     border-bottom: 0;
+}*/
+
+@media (max-width: 420px) {
+  #footer .sidebar-item .item-wrap h3 {
+      font-size: 15px;
+  }
 }
+
 #footer .sidebar-item .wiso-widget-subscribe .wiso-widget-descr {
     color: #999999;
     font-family: "Open Sans",  sans-serif;
@@ -20221,10 +20228,11 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     body #footer .widg {
     padding: 50px 0 15px;
 }
-}@media only screen and (max-width: 1200px) {
+}
+/*@media only screen and (max-width: 1200px) {
     #footer.simple>.container {
     padding-top: 90px;
-}
+}*/
 }@media only screen and (min-width: 1199px) {
     #footer .sidebar-item .item-wrap {
     max-width: 260px;
@@ -20235,15 +20243,17 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 }
 #footer .SubscribeWidget .item-wrap {
     max-width: 300px;
+  }
 }
-}@media only screen and (max-width: 1199px) and (min-width: 768px) {
+@media only screen and (max-width: 1199px) and (min-width: 768px) {
     body.static-menu #footer .sidebar-item {
     width: 50% !important;
+  }
 }
-}@media only screen and (max-width: 1024px) {
+/*@media only screen and (max-width: 1024px) {
     #footer.simple>.container {
     padding-top: 50px;
-}
+}*/
 #footer .sidebar-item {
     margin-bottom: 20px;
     margin-top: 20px;
@@ -20262,9 +20272,9 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 #footer .widg .sidebar-item:nth-of-type(3) {
     float: none;
 }
-#footer .sidebar-item {
+/*#footer .sidebar-item {
     text-align: center;
-}
+}*/
 #footer .sidebar-item .images-wrap {
     display: inline-block;
 }
@@ -20272,9 +20282,9 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     max-width: 100%}
 #footer .widget_text {
     max-width: 100%}
-#footer.simple>.container {
+/*#footer.simple>.container {
     padding-top: 40px;
-}
+}*/
 #footer.simple .sidebar-item:nth-of-type(3n)::before {
     content: none;
 }
@@ -20306,14 +20316,14 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 #footer.modern .wiso-widget-copyright .copy_content {
     text-align: center;
 }
-#footer .sidebar-item {
+/*#footer .sidebar-item {
     text-align: center;
-}
+}*/
 #footer .sidebar-item:nth-of-type(3n) {
     width: 100%}
-#footer .sidebar-item .item-wrap {
+/*#footer .sidebar-item .item-wrap {
     text-align: center;
-}
+}*/
 #footer .footer-bottom-wrap {
     margin-top: 30px;
 }
@@ -20378,9 +20388,9 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 body #footer .widg {
     padding: 15px 0;
 }
-#footer .sidebar-item .item-wrap {
+/*#footer .sidebar-item .item-wrap {
     text-align: center;
-}
+}*/
 #footer .sidebar-item .images-wrap {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -20409,9 +20419,9 @@ body #footer .widg {
 #footer.simple .copyright {
     margin-bottom: 30px;
 }
-#footer.simple .sidebar-item .item-wrap h3 {
+/*#footer.simple .sidebar-item .item-wrap h3 {
     margin-bottom: 25px;
-}
+}*/
 #footer.simple .sidebar-item .wiso-widget-subscribe .wiso-widget-descr {
     margin-bottom: 0;
 }
@@ -20421,9 +20431,9 @@ body #footer .widg {
 #footer .widget_text h5 {
     margin-bottom: 20px;
 }
-#footer .sidebar-item .item-wrap h3 {
+/*#footer .sidebar-item .item-wrap h3 {
     margin-bottom: 20px;
-}
+*/}
 #footer .footer-bottom-wrap .flex-wrap {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
@@ -40035,7 +40045,7 @@ a {
     .container {
         text-align: center;
         width: 100%;
-        bottom: 130px;
+        bottom: -90px;
         margin-left: 0px;
         padding-left: 0px;
     }
@@ -52857,5 +52867,11 @@ table th {
 @media (max-width: 420px) {
   .hamburger {
     padding: 10px 10px;
+  }
+}
+
+@media (max-width: 420px) {
+  h3 {
+    font-size: 15px;
   }
 }
