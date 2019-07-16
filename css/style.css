@@ -3080,23 +3080,6 @@ kbd {
   opacity: .9;
   font-size: 13px; }
 
-button,
-html input[type=button],
-input[type=reset],
-input[type=submit] {
-  padding: 0 10px;
-  background: #222222;
-  border-color: #222222;
-  color: #ffffff;
-  -webkit-transition: all 300ms ease;
-  transition: all 300ms ease;
-  border-radius: 0px; }
-
-button:hover,
-html input[type=button]:hover,
-input[type=reset]:hover,
-input[type=submit]:hover {
-  opacity: .8; }
 
 figure.gallery-item {
   display: inline-block;
@@ -13645,24 +13628,6 @@ kbd {
   opacity: .9;
   font-size: 13px; }
 
-button,
-html input[type=button],
-input[type=reset],
-input[type=submit] {
-  padding: 0 10px;
-  background: #222222;
-  border-color: #222222;
-  color: #ffffff;
-  -webkit-transition: all 300ms ease;
-  transition: all 300ms ease;
-  border-radius: 0px; }
-
-button:hover,
-html input[type=button]:hover,
-input[type=reset]:hover,
-input[type=submit]:hover {
-  opacity: .8; }
-
 figure.gallery-item {
   display: inline-block;
   max-width: 33.33%;
@@ -19168,18 +19133,7 @@ kbd {
     opacity: .9;
     font-size: 13px;
 }
-button, html input[type=button], input[type=reset], input[type=submit] {
-    padding: 0 10px;
-    background: #222222;
-    border-color: #222222;
-    color: #ffffff;
-    -webkit-transition: all 300ms ease;
-    transition: all 300ms ease;
-    border-radius: 0px;
-}
-button:hover, html input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover {
-    opacity: .8;
-}
+
 figure.gallery-item {
     display: inline-block;
     max-width: 33.33%;
@@ -27092,7 +27046,7 @@ button.swiper-pagination-bullet {
   font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 400;
-  src: local("Playfair Display Regular"), local("PlayfairDisplay-Regular"), url(http://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format("truetype"); }
+  src: local("Playfair Display Regular"), local("PlayfairDisplay-Regular"), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format("truetype"); }
 .tg-iso-tile a:not([class*="tg-element-"]), .tg-iso-tile a:not([class*="tg-element-"]):active, .tg-iso-tile a:not([class*="tg-element-"]):focus, .tg-iso-tile [class*="tg-element-"] *:not(del) {
   margin: 0;
   padding: 0;
@@ -28126,7 +28080,7 @@ button.swiper-pagination-bullet {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 .tg-iso-1 a:not([class*="tg-element-"]), .tg-iso-1 a:not([class*="tg-element-"]):active, .tg-iso-1 a:not([class*="tg-element-"]):focus, .tg-iso-1 [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -28335,19 +28289,19 @@ button.swiper-pagination-bullet {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 300;
-    src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf) format('truetype');
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 400;
-    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(http://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
+    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
 }
 .tg-iso-2 a:not([class*="tg-element-"]), .tg-iso-2 a:not([class*="tg-element-"]):active, .tg-iso-2 a:not([class*="tg-element-"]):focus, .tg-iso-2 [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -28584,13 +28538,13 @@ button.swiper-pagination-bullet {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 400;
-    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(http://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
+    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
 }
 .tg-iso-post-1 a:not([class*="tg-element-"]), .tg-iso-post-1 a:not([class*="tg-element-"]):active, .tg-iso-post-1 a:not([class*="tg-element-"]):focus, .tg-iso-post-1 [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -29359,7 +29313,7 @@ body.admin-bar .tolb-inner {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 .tg-iso-simple a:not([class*="tg-element-"]), .tg-iso-simple a:not([class*="tg-element-"]):active, .tg-iso-simple a:not([class*="tg-element-"]):focus, .tg-iso-simple [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -29675,13 +29629,13 @@ body.admin-bar .tolb-inner {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 400;
-    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(http://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
+    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
 }
 .tg-iso-post-1 a:not([class*="tg-element-"]), .tg-iso-post-1 a:not([class*="tg-element-"]):active, .tg-iso-post-1 a:not([class*="tg-element-"]):focus, .tg-iso-post-1 [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -29954,7 +29908,7 @@ body.admin-bar .tolb-inner {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
 }
 .tg-iso-transform a:not([class*="tg-element-"]), .tg-iso-transform a:not([class*="tg-element-"]):active, .tg-iso-transform a:not([class*="tg-element-"]):focus, .tg-iso-transform [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -30158,19 +30112,19 @@ body.admin-bar .tolb-inner {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 400;
-    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(http://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
+    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype');
 }
 .tg-iso-andra a:not([class*="tg-element-"]), .tg-iso-andra a:not([class*="tg-element-"]):active, .tg-iso-andra a:not([class*="tg-element-"]):focus, .tg-iso-andra [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -30408,7 +30362,7 @@ body.admin-bar .tolb-inner {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 .tg-iso-1 a:not([class*="tg-element-"]), .tg-iso-1 a:not([class*="tg-element-"]):active, .tg-iso-1 a:not([class*="tg-element-"]):focus, .tg-iso-1 [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -31125,13 +31079,13 @@ body.admin-bar .tolb-inner {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 700;
-    src: local('Playfair Display Bold'), local('PlayfairDisplay-Bold'), url(http://fonts.gstatic.com/s/playfairdisplay/v13/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e4w.ttf) format('truetype');
+    src: local('Playfair Display Bold'), local('PlayfairDisplay-Bold'), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e4w.ttf) format('truetype');
 }
 .tg-3d-cover a:not([class*="tg-element-"]), .tg-3d-cover a:not([class*="tg-element-"]):active, .tg-3d-cover a:not([class*="tg-element-"]):focus, .tg-3d-cover [class*="tg-element-"] *:not(del) {
     margin: 0;
@@ -35247,28 +35201,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .woocommerce .wiso_product_detail .product div.related.products li.product {
   width: 25%; }
 
-.woocommerce div.product form.cart .button {
-  margin-top: 30px;
-  display: inline-block;
-  padding: 10px 30px;
-  border: 1px solid #222222;
-  background-color: #222222;
-  color: #ffffff;
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 2;
-  letter-spacing: 2px;
-  text-decoration: none;
-  text-transform: uppercase;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(50%, transparent), color-stop(50%, #222));
-  background-image: linear-gradient(to right, transparent 50%, #222 50%);
-  background-size: 200% 100%;
-  background-position: right bottom; }
-  .woocommerce div.product form.cart .button:hover {
-    background-color: transparent;
-    background-position: left bottom;
-    color: #222222;
-    border-color: #ddd; }
 
 .woocommerce div.product form.cart .single_add_to_cart_button {
   margin-top: 5px; }
@@ -35416,29 +35348,7 @@ p.cart-empty {
   text-align: center; }
 
 /* BUTTONS */
-.woocommerce-page.woocommerce-cart .woocommerce input.button,
-.woocommerce-page.woocommerce-checkout .woocommerce input.button,
-.woocommerce #respond input#submit,
-.woocommerce a.button,
-.woocommerce a.button.alt,
-.woocommerce button.button,
-.woocommerce input.button {
-  display: inline-block;
-  padding: 10px 30px;
-  border: 1px solid #222222;
-  background-color: #222222;
-  color: #ffffff;
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 2;
-  letter-spacing: 1px;
-  text-decoration: none;
-  text-transform: uppercase;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(50%, transparent), color-stop(50%, #222));
-  background-image: linear-gradient(to right, transparent 50%, #222 50%);
-  background-size: 200% 100%;
-  background-position: right bottom;
-  border-radius: 0; }
+
   .woocommerce-page.woocommerce-cart .woocommerce input.button:hover,
   .woocommerce-page.woocommerce-checkout .woocommerce input.button:hover,
   .woocommerce #respond input#submit:hover,
@@ -35962,10 +35872,6 @@ p.cart-empty {
 .single-product .variations_button,
 .wiso_product_detail .variations_button {
   width: 100%; }
-
-.single-product .product .summary .cart .button,
-.wiso_product_detail .product .summary .cart .button {
-  float: none; }
 
 /* PRODUCT DETAILS PAGE - META */
 .single-product .product .summary .product_meta,
@@ -36898,10 +36804,6 @@ a {
   .woocommerce form .form-row input:-moz-placeholder {
     opacity: .6;
     color: #222222; }
-  .wiso_cart.shop_table .complement-cart .coupon .input-text.button,
-  .woocommerce form .form-row select.button,
-  .woocommerce form .form-row input.button {
-    color: #fff; }
     .wiso_cart.shop_table .complement-cart .coupon .input-text.button:hover,
     .woocommerce form .form-row select.button:hover,
     .woocommerce form .form-row input.button:hover {
@@ -36962,9 +36864,6 @@ a {
       letter-spacing: 1px;
       color: #999; }
 
-.wiso-cart-collaterals .cart_totals a.button {
-  display: inline-block;
-  margin-bottom: 0; }
 
 /* PRODUCT PAGE - CHECKOUT */
 .woocommerce form .form-row {
@@ -37442,16 +37341,8 @@ a {
   flex-direction: row-reverse;
   align-items: center;
   justify-content: space-between; }
-  .widget_price_filter .price_slider_amount .button {
-    color: #222222;
-    background: none;
-    background-color: transparent;
-    padding: 0;
-    border: 0;
-    width: 30%; }
-    .widget_price_filter .price_slider_amount .button:hover {
-      background: none;
-      color: #999999; }
+
+
 .widget_price_filter .price_label {
   width: 70%;
   color: #999999;
@@ -37490,12 +37381,6 @@ a {
 .woocommerce ul.product_list_widget li img {
   margin-top: 5px; }
 
-.woocommerce-page.woocommerce .sidebar-item a.button {
-  color: #fff !important;
-  padding: 8px 25px 4px 25px;
-  margin-bottom: 0;
-  margin-top: 5px; }
-
 .woocommerce-page.woocommerce .sidebar-item.widget_shopping_cart .total {
   margin-top: 30px; }
 .woocommerce-page.woocommerce .sidebar-item.widget_shopping_cart li {
@@ -37504,12 +37389,6 @@ a {
   color: #222222 !important; }
   .woocommerce-page.woocommerce .sidebar-item.widget_shopping_cart a:hover {
     color: #999999 !important; }
-.woocommerce-page.woocommerce .sidebar-item.widget_shopping_cart a.button {
-  color: #ffffff !important;
-  font-family: "Open Sans", sans-serif;
-  font-size: 12px !important; }
-  .woocommerce-page.woocommerce .sidebar-item.widget_shopping_cart a.button:hover {
-    color: #222222 !important; }
 
 .woocommerce .sidebar-item a.remove {
   top: 14px !important;
@@ -37779,10 +37658,6 @@ a {
   .woocommerce .widget_price_filter .price_slider_amount {
     flex-direction: column-reverse; }
 
-  .widget_price_filter .price_label,
-  .widget_price_filter .price_slider_amount .button {
-    width: 100%;
-    text-align: left; }
 
   .single-product .product .wiso_images,
   .wiso_product_detail .product .wiso_images {
@@ -38163,14 +38038,6 @@ a {
     flex-direction: column-reverse !important;
     text-align: center; }
 
-  .woocommerce .woocommerce-error .button,
-  .woocommerce .woocommerce-info .button,
-  .woocommerce .woocommerce-message .button,
-  .woocommerce-page .woocommerce-error .button,
-  .woocommerce-page .woocommerce-info .button,
-  .woocommerce-page .woocommerce-message .button {
-    margin: 15px auto auto;
-    float: none; }
 
   .woocommerce ul.products li.product {
     margin: 0 0 30px 0; }
@@ -38994,8 +38861,6 @@ a {
   margin-left: 0;
   list-style-type: none; }
 
-.woocommerce table.my_account_orders .order-actions .button {
-  padding: 5px 10px; }
 
 @media only screen and (max-width: 768px) {
   .woocommerce-account .woocommerce-MyAccount-content,
@@ -39092,36 +38957,12 @@ a {
     -ms-transition: .3s ease;
     -o-transition: .3s ease;
     transition: .3s ease; }
-    .woocommerce .woocommerce-message a:not(.button),
-    .woocommerce .woocommerce-info a:not(.button),
-    .woocommerce .woocommerce-error a:not(.button) {
-      color: #fff;
-      opacity: .7; }
-      .woocommerce .woocommerce-message a:not(.button):hover,
-      .woocommerce .woocommerce-info a:not(.button):hover,
-      .woocommerce .woocommerce-error a:not(.button):hover {
-        opacity: 1; }
+
   .woocommerce .woocommerce-message:before,
   .woocommerce .woocommerce-info:before,
   .woocommerce .woocommerce-error:before {
     color: #fff; }
-  .woocommerce .woocommerce-message a.button,
-  .woocommerce .woocommerce-info a.button,
-  .woocommerce .woocommerce-error a.button {
-    background-color: transparent;
-    background-image: -webkit-gradient(linear, left top, right top, color-stop(50%, #fff), color-stop(50%, transparent));
-    background-image: linear-gradient(to right, #fff 50%, transparent 50%);
-    background-size: 200% 100%;
-    background-position: right bottom;
-    color: #fff;
-    border-color: #fff; }
-    .woocommerce .woocommerce-message a.button:hover,
-    .woocommerce .woocommerce-info a.button:hover,
-    .woocommerce .woocommerce-error a.button:hover {
-      background-color: transparent;
-      background-position: left bottom;
-      border-color: #fff;
-      color: #222; }
+
 
 .SocialLinkWidget .wiso-widget-social-title {
   border-bottom: 1px solid #eee;
@@ -39162,10 +39003,7 @@ a {
 .woocommerce-page .unit .product .related.products h2, .woocommerce-page .unit .wiso_product_detail .product .related.products h2 {
   line-height: 1.5;
   text-align: left; }
-.woocommerce-page .unit .woocommerce a.button {
-  color: #ffffff; }
-  .woocommerce-page .unit .woocommerce a.button:hover {
-    color: #222222; }
+
 .woocommerce-page .unit .single-post ul li {
   text-indent: 0 !important;
   margin-bottom: 0 !important;
@@ -40994,27 +40832,6 @@ footer.zindex {
     margin-bottom: 3px;
 }
 
-#topmenu .wiso_mini_cart a.button {
-    margin-bottom: 0;
-    letter-spacing: 1.2px;
-    line-height: 20px;
-    position: relative;
-    display: inline-block;
-    font-family: "Open Sans", sans-serif;
-    font-weight: bold;
-    box-sizing: border-box;
-    padding: 18px;
-    font-size: 15px;
-    text-decoration: none;
-    -webkit-font-smoothing: antialiased;
-    background-color: #222;
-    color: #ffffff;
-    width: 100%;
-    border-radius: 0;
-    -webkit-transition: all .3s ease;
-    -o-transition: all .3s ease;
-    transition: all .3s ease;
-}
 #topmenu .wiso_mini_cart a.button:hover {
     background-color: #222;
     color: #ffffff;
@@ -44413,7 +44230,6 @@ dt,
 .protected-page form input[type="submit"],
 .archive-client .user-info-wrap .title:before,
 .col-md-4 .widget_tag_cloud a, .col-md-3 .widget_tag_cloud a,
-button,
 html input[type=button],
 input[type=reset],
 input[type=submit],
@@ -44491,8 +44307,7 @@ canvas,
 .protected-page form input[type="submit"],
 .a-btn,
 .a-btn-2:hover,
-.a-btn-3:hover,
-button, html input[type=button], input[type=reset], input[type=submit],
+.a-btn-3:hover, html input[type=button], input[type=reset], input[type=submit],
 .error404 .hero-inner .search input[type="submit"],
 .sidebar-item input:focus,
 .protected-page form input:not([type="submit"]):focus,
@@ -44641,8 +44456,7 @@ body table.booked-calendar td.today:hover .date span {
 .a-btn-2,
 .a-btn-2:hover,
 .a-btn-3:hover,
-.a-btn-4,
-button, html input[type=button], input[type=reset], input[type=submit],
+.a-btn-4, html input[type=button], input[type=reset], input[type=submit],
 mark, ins,
 .col-md-4 .widget_tag_cloud a, .col-md-3 .widget_tag_cloud a,
 .error404 .hero-inner .bigtext,
@@ -44885,10 +44699,6 @@ body,
 
 .team-members-wrap.chess_tile .image-wrap::after {
     border-right-color: #fff;
-}
-
-.woocommerce-page.woocommerce .sidebar-item a.button {
-    color: #fff !important;
 }
 
 .physics-banner .arrows path,
@@ -52642,6 +52452,33 @@ table th {
     transition: opacity 0.25s ease, color 0.25s ease, transform 0.3s ease-in-out
 }
 
+.slide-item {
+    position: relative;
+}
+
+.slide-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.slide-desc {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-left: 85px;
+}
+
+@media (max-width: 1248px) {
+    .slide-desc {
+        padding-left: 20px;
+    }
+}
+
 .lisboa.tg-item {
     cursor: pointer
 }
@@ -52913,7 +52750,4 @@ table th {
     margin-right: 50px;
   }
 }
-
-
-
 
